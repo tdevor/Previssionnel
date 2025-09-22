@@ -1,0 +1,7 @@
+date,journal,account,description,debit,credit
+2024-01-01,VT,701100,Vente de marchandises,0,1500
+2024-01-02,VT,706000,Prestations de services,0,500
+2024-01-03,AC,606100,Achat de matières,200,0
+2024-01-04,AC,613200,Loyer,300,0
+2024-01-05,BN,512000,Encaissement client,1000,0
+2024-01-06,OD,471000,Ecriture à ventiler,100,0
