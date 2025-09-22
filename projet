@@ -1,0 +1,11 @@
+# Se placer dans le dossier du projet
+cd chemin/vers/mon-projet
+
+# Initialiser Git
+git init
+
+# Ajouter tous les fichiers
+git add .
+
+# Premier commit
+git commit -m "Initial commit"
