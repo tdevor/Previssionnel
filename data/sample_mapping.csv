@@ -1,0 +1,7 @@
+pattern,category,label,sign
+706*,CA - Prestations,Prestations de services,-1
+70*,CA - Marchandises,Ventes de marchandises,-1
+606*,Charges - Achats,Achat de matières,1
+613*,Charges - Loyer,Loyers et locations,1
+61*,Charges - Services,Autres services externes,1
+512*,Trésorerie,Banque principale,1
